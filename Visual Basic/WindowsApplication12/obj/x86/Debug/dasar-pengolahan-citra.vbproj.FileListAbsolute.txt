@@ -1,0 +1,28 @@
+D:\Git Projects\Praktikum-PCD\Modul 1\Visual Basic\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.exe.manifest
+D:\Git Projects\Praktikum-PCD\Modul 1\Visual Basic\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.application
+D:\Git Projects\Praktikum-PCD\Modul 1\Visual Basic\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.exe
+D:\Git Projects\Praktikum-PCD\Modul 1\Visual Basic\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.pdb
+D:\Git Projects\Praktikum-PCD\Modul 1\Visual Basic\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.xml
+D:\Git Projects\Praktikum-PCD\Modul 1\Visual Basic\WindowsApplication12\obj\x86\Debug\dasar-pengolahan-citra.vbprojResolveAssemblyReference.cache
+D:\Git Projects\Praktikum-PCD\Modul 1\Visual Basic\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Git Projects\Praktikum-PCD\Modul 1\Visual Basic\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Git Projects\Praktikum-PCD\Modul 1\Visual Basic\WindowsApplication12\obj\x86\Debug\dasar-pengolahan-citra.vbproj.GenerateResource.Cache
+D:\Git Projects\Praktikum-PCD\Modul 1\Visual Basic\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.exe.manifest
+D:\Git Projects\Praktikum-PCD\Modul 1\Visual Basic\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.application
+D:\Git Projects\Praktikum-PCD\Modul 1\Visual Basic\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.exe
+D:\Git Projects\Praktikum-PCD\Modul 1\Visual Basic\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.xml
+D:\Git Projects\Praktikum-PCD\Modul 1\Visual Basic\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.pdb
+D:\Git Projects\Praktikum-PCD\WindowsApplication12\bin\Debug\Dasar Pengolahan Citra.exe.manifest
+D:\Git Projects\Praktikum-PCD\WindowsApplication12\bin\Debug\Dasar Pengolahan Citra.application
+D:\Git Projects\Praktikum-PCD\WindowsApplication12\bin\Debug\Dasar Pengolahan Citra.exe
+D:\Git Projects\Praktikum-PCD\WindowsApplication12\bin\Debug\Dasar Pengolahan Citra.pdb
+D:\Git Projects\Praktikum-PCD\WindowsApplication12\bin\Debug\Dasar Pengolahan Citra.xml
+D:\Git Projects\Praktikum-PCD\WindowsApplication12\obj\x86\Debug\dasar-pengolahan-citra.vbprojResolveAssemblyReference.cache
+D:\Git Projects\Praktikum-PCD\WindowsApplication12\obj\x86\Debug\DasarPengolahanCitra.Form1.resources
+D:\Git Projects\Praktikum-PCD\WindowsApplication12\obj\x86\Debug\DasarPengolahanCitra.Resources.resources
+D:\Git Projects\Praktikum-PCD\WindowsApplication12\obj\x86\Debug\dasar-pengolahan-citra.vbproj.GenerateResource.Cache
+D:\Git Projects\Praktikum-PCD\WindowsApplication12\obj\x86\Debug\Dasar Pengolahan Citra.exe.manifest
+D:\Git Projects\Praktikum-PCD\WindowsApplication12\obj\x86\Debug\Dasar Pengolahan Citra.application
+D:\Git Projects\Praktikum-PCD\WindowsApplication12\obj\x86\Debug\Dasar Pengolahan Citra.exe
+D:\Git Projects\Praktikum-PCD\WindowsApplication12\obj\x86\Debug\Dasar Pengolahan Citra.xml
+D:\Git Projects\Praktikum-PCD\WindowsApplication12\obj\x86\Debug\Dasar Pengolahan Citra.pdb

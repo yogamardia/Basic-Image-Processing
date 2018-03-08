@@ -1,0 +1,60 @@
+C:\Users\Asus\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Asus\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Asus\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\WindowsApplication12.vbproj.GenerateResource.Cache
+C:\Users\Asus\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.exe.manifest
+C:\Users\Asus\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.application
+C:\Users\Asus\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.exe
+C:\Users\Asus\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.pdb
+C:\Users\Asus\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.xml
+C:\Users\Asus\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.exe.manifest
+C:\Users\Asus\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.application
+C:\Users\Asus\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.exe
+C:\Users\Asus\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.xml
+C:\Users\Asus\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.pdb
+G:\PCD\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.exe
+G:\PCD\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.xml
+G:\PCD\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.pdb
+G:\PCD\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.exe.manifest
+G:\PCD\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.application
+G:\PCD\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.exe
+G:\PCD\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.pdb
+G:\PCD\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.xml
+G:\PCD\WindowsApplication12\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\PCD\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\PCD\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\PCD\WindowsApplication12\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\PCD\WindowsApplication12\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\PCD\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.exe.manifest
+G:\PCD\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.application
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.exe
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.xml
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.pdb
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.exe.manifest
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.application
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.exe
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.pdb
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.xml
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.exe.manifest
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.application
+D:\Pengolahan Citra Digital\Tugas 2 PCD_Kelompok 4_PCD(B)\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.exe.manifest
+D:\Pengolahan Citra Digital\Tugas 2 PCD_Kelompok 4_PCD(B)\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.application
+D:\Pengolahan Citra Digital\Tugas 2 PCD_Kelompok 4_PCD(B)\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.exe
+D:\Pengolahan Citra Digital\Tugas 2 PCD_Kelompok 4_PCD(B)\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.pdb
+D:\Pengolahan Citra Digital\Tugas 2 PCD_Kelompok 4_PCD(B)\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.xml
+D:\Pengolahan Citra Digital\Tugas 2 PCD_Kelompok 4_PCD(B)\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Pengolahan Citra Digital\Tugas 2 PCD_Kelompok 4_PCD(B)\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Pengolahan Citra Digital\Tugas 2 PCD_Kelompok 4_PCD(B)\WindowsApplication12\obj\x86\Debug\WindowsApplication12.vbproj.GenerateResource.Cache
+D:\Pengolahan Citra Digital\Tugas 2 PCD_Kelompok 4_PCD(B)\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.exe.manifest
+D:\Pengolahan Citra Digital\Tugas 2 PCD_Kelompok 4_PCD(B)\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.application
+D:\Pengolahan Citra Digital\Tugas 2 PCD_Kelompok 4_PCD(B)\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.exe
+D:\Pengolahan Citra Digital\Tugas 2 PCD_Kelompok 4_PCD(B)\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.xml
+D:\Pengolahan Citra Digital\Tugas 2 PCD_Kelompok 4_PCD(B)\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.pdb
+D:\Pengolahan Citra Digital\Tugas 2 PCD_Kelompok 4_PCD(B)\WindowsApplication12\obj\x86\Debug\WindowsApplication12.vbprojResolveAssemblyReference.cache
+D:\Pengolahan Citra Digital\Praktikum PCD\Modul 1\Visual Basic\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.exe
+D:\Pengolahan Citra Digital\Praktikum PCD\Modul 1\Visual Basic\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.xml
+D:\Pengolahan Citra Digital\Praktikum PCD\Modul 1\Visual Basic\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.pdb

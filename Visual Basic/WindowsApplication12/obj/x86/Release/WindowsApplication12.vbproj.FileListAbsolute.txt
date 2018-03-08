@@ -1,0 +1,34 @@
+C:\Users\Asus\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\Asus\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Asus\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Release\WindowsApplication12.vbproj.GenerateResource.Cache
+C:\Users\Asus\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\bin\Release\Pengolahan Citra Digital Kelompok 4.exe.manifest
+C:\Users\Asus\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\bin\Release\Pengolahan Citra Digital Kelompok 4.application
+C:\Users\Asus\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\bin\Release\Pengolahan Citra Digital Kelompok 4.exe
+C:\Users\Asus\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\bin\Release\Pengolahan Citra Digital Kelompok 4.pdb
+C:\Users\Asus\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\bin\Release\Pengolahan Citra Digital Kelompok 4.xml
+C:\Users\Asus\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Release\Pengolahan Citra Digital Kelompok 4.exe.manifest
+C:\Users\Asus\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Release\Pengolahan Citra Digital Kelompok 4.application
+C:\Users\Asus\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Release\Pengolahan Citra Digital Kelompok 4.exe
+C:\Users\Asus\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Release\Pengolahan Citra Digital Kelompok 4.xml
+C:\Users\Asus\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Release\Pengolahan Citra Digital Kelompok 4.pdb
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\bin\Release\Pengolahan Citra Digital Kelompok 4.exe.manifest
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\bin\Release\Pengolahan Citra Digital Kelompok 4.application
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\bin\Release\Pengolahan Citra Digital Kelompok 4.exe
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\bin\Release\Pengolahan Citra Digital Kelompok 4.pdb
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\bin\Release\Pengolahan Citra Digital Kelompok 4.xml
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\obj\x86\Release\WindowsApplication1.Form1.resources
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\obj\x86\Release\Pengolahan Citra Digital Kelompok 4.exe.manifest
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\obj\x86\Release\Pengolahan Citra Digital Kelompok 4.application
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\obj\x86\Release\Pengolahan Citra Digital Kelompok 4.exe
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\obj\x86\Release\Pengolahan Citra Digital Kelompok 4.xml
+D:\Homework\Pengolahan Citra Digital\PCD\WindowsApplication12\obj\x86\Release\Pengolahan Citra Digital Kelompok 4.pdb
+D:\Homework\Pengolahan Citra Digital\Tugas 2 PCD_Kelompok 4_PCD(B)\WindowsApplication12\obj\x86\Release\Pengolahan Citra Digital Kelompok 4.exe
+D:\Homework\Pengolahan Citra Digital\Tugas 2 PCD_Kelompok 4_PCD(B)\WindowsApplication12\obj\x86\Release\Pengolahan Citra Digital Kelompok 4.xml
+D:\Homework\Pengolahan Citra Digital\Tugas 2 PCD_Kelompok 4_PCD(B)\WindowsApplication12\obj\x86\Release\Pengolahan Citra Digital Kelompok 4.pdb
+D:\Pengolahan Citra Digital\Tugas 2 PCD_Kelompok 4_PCD(B)\WindowsApplication12\obj\x86\Release\Pengolahan Citra Digital Kelompok 4.exe
+D:\Pengolahan Citra Digital\Tugas 2 PCD_Kelompok 4_PCD(B)\WindowsApplication12\obj\x86\Release\Pengolahan Citra Digital Kelompok 4.xml
+D:\Pengolahan Citra Digital\Tugas 2 PCD_Kelompok 4_PCD(B)\WindowsApplication12\obj\x86\Release\Pengolahan Citra Digital Kelompok 4.pdb

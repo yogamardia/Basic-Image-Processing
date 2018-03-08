@@ -1,0 +1,17 @@
+D:\Pengolahan Citra Digital\Praktikum PCD\Modul 1\Visual Basic\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.exe.manifest
+D:\Pengolahan Citra Digital\Praktikum PCD\Modul 1\Visual Basic\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.application
+D:\Pengolahan Citra Digital\Praktikum PCD\Modul 1\Visual Basic\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.exe
+D:\Pengolahan Citra Digital\Praktikum PCD\Modul 1\Visual Basic\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.pdb
+D:\Pengolahan Citra Digital\Praktikum PCD\Modul 1\Visual Basic\WindowsApplication12\bin\Debug\Pengolahan Citra Digital Kelompok 4.xml
+D:\Pengolahan Citra Digital\Praktikum PCD\Modul 1\Visual Basic\WindowsApplication12\obj\x86\Debug\Modul_1.vbprojResolveAssemblyReference.cache
+D:\Pengolahan Citra Digital\Praktikum PCD\Modul 1\Visual Basic\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Pengolahan Citra Digital\Praktikum PCD\Modul 1\Visual Basic\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Pengolahan Citra Digital\Praktikum PCD\Modul 1\Visual Basic\WindowsApplication12\obj\x86\Debug\Modul_1.vbproj.GenerateResource.Cache
+D:\Pengolahan Citra Digital\Praktikum PCD\Modul 1\Visual Basic\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.exe.manifest
+D:\Pengolahan Citra Digital\Praktikum PCD\Modul 1\Visual Basic\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.application
+D:\Pengolahan Citra Digital\Praktikum PCD\Modul 1\Visual Basic\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.exe
+D:\Pengolahan Citra Digital\Praktikum PCD\Modul 1\Visual Basic\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.xml
+D:\Pengolahan Citra Digital\Praktikum PCD\Modul 1\Visual Basic\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.pdb
+D:\Git Projects\Praktikum-PCD\Modul 1\Visual Basic\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.exe
+D:\Git Projects\Praktikum-PCD\Modul 1\Visual Basic\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.xml
+D:\Git Projects\Praktikum-PCD\Modul 1\Visual Basic\WindowsApplication12\obj\x86\Debug\Pengolahan Citra Digital Kelompok 4.pdb
