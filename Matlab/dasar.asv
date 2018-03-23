@@ -103,8 +103,7 @@ function copy_btn_Callback(hObject, eventdata, handles)
 
 global a;
 
-empty = isempty(get(handles.pb1, 'Children'));
-
+empty = isempty(get(handles.axes1, 'Children'));
 
 if (empty == 1)
     errordlg('Gambar Belum Dimasukan! Silahkan Klik Pilih Gambar...','Terjadi kesalahan');
@@ -146,8 +145,8 @@ function red_btn_Callback(hObject, eventdata, handles)
 % Hint: get(hObject,'Value') returns toggle state of red_btn
 global a;
 
-empty1 = isempty(get(handles.pb1, 'Children'));
-empty2 = isempty(get(handles.pb2, 'Children'));
+empty1 = isempty(get(handles.axes1, 'Children'));
+empty2 = isempty(get(handles.axes2, 'Children'));
 
 if (empty1 == 1)
     errordlg('Gambar Belum Dimasukan! Silahkan Klik Pilih Gambar...','Terjadi kesalahan');
@@ -173,8 +172,8 @@ function green_btn_Callback(hObject, eventdata, handles)
 
 % Hint: get(hObject,'Value') returns toggle state of green_btn
 global a;
-empty1 = isempty(get(handles.pb1, 'Children'));
-empty2 = isempty(get(handles.pb2, 'Children'));
+empty1 = isempty(get(handles.axes1, 'Children'));
+empty2 = isempty(get(handles.axes2, 'Children'));
 
 if (empty1 == 1)
     errordlg('Gambar Belum Dimasukan! Silahkan Klik Pilih Gambar...','Terjadi kesalahan');
@@ -200,8 +199,8 @@ function blue_btn_Callback(hObject, eventdata, handles)
 % Hint: get(hObject,'Value') returns toggle state of blue_btn
 global a;
 
-empty1 = isempty(get(handles.pb1, 'Children'));
-empty2 = isempty(get(handles.pb2, 'Children'));
+empty1 = isempty(get(handles.axes1, 'Children'));
+empty2 = isempty(get(handles.axes2, 'Children'));
 
 if (empty1 == 1)
     errordlg('Gambar Belum Dimasukan! Silahkan Klik Pilih Gambar...','Terjadi kesalahan');
@@ -217,7 +216,7 @@ else
 
     axes(handles.pb3);
     imshow(newIm);
-end
+
 
 % --- Executes on button press in cyan_rb.
 function cyan_rb_Callback(hObject, eventdata, handles)
@@ -228,23 +227,15 @@ function cyan_rb_Callback(hObject, eventdata, handles)
 % Hint: get(hObject,'Value') returns toggle state of cyan_rb
 global a;
 
-empty1 = isempty(get(handles.pb1, 'Children'));
-empty2 = isempty(get(handles.pb2, 'Children'));
+r = a(:,:,1);
+g = a(:,:,2);
+b = a(:,:,3);
+z = zeros(size(a, 1), size(a, 2));
+newIm  = cat(3, z, g, b);
 
-if (empty1 == 1)
-    errordlg('Gambar Belum Dimasukan! Silahkan Klik Pilih Gambar...','Terjadi kesalahan');
-elseif (empty2 == 1)
-    errordlg('Gambar Belum Dicopy! Silahkan Klik Copy...','Terjadi kesalahan');
-else
-    r = a(:,:,1);
-    g = a(:,:,2);
-    b = a(:,:,3);
-    z = zeros(size(a, 1), size(a, 2));
-    newIm  = cat(3, z, g, b);
+axes(handles.pb3);
+imshow(newIm);
 
-    axes(handles.pb3);
-    imshow(newIm);
-end
 
 % --- Executes on button press in magenta_rb.
 function magenta_rb_Callback(hObject, eventdata, handles)
@@ -255,23 +246,15 @@ function magenta_rb_Callback(hObject, eventdata, handles)
 % Hint: get(hObject,'Value') returns toggle state of magenta_rb
 global a;
 
-empty1 = isempty(get(handles.pb1, 'Children'));
-empty2 = isempty(get(handles.pb2, 'Children'));
+r = a(:,:,1);
+g = a(:,:,2);
+b = a(:,:,3);
+z = zeros(size(a, 1), size(a, 2));
+newIm  = cat(3, r, z, b);
 
-if (empty1 == 1)
-    errordlg('Gambar Belum Dimasukan! Silahkan Klik Pilih Gambar...','Terjadi kesalahan');
-elseif (empty2 == 1)
-    errordlg('Gambar Belum Dicopy! Silahkan Klik Copy...','Terjadi kesalahan');
-else
-    r = a(:,:,1);
-    g = a(:,:,2);
-    b = a(:,:,3);
-    z = zeros(size(a, 1), size(a, 2));
-    newIm  = cat(3, r, z, b);
+axes(handles.pb3);
+imshow(newIm);
 
-    axes(handles.pb3);
-    imshow(newIm);
-end
 
 % --- Executes on button press in radiobutton6.
 function radiobutton6_Callback(hObject, eventdata, handles)
@@ -282,20 +265,11 @@ function radiobutton6_Callback(hObject, eventdata, handles)
 % Hint: get(hObject,'Value') returns toggle state of radiobutton6
 global a;
 
-empty1 = isempty(get(handles.pb1, 'Children'));
-empty2 = isempty(get(handles.pb2, 'Children'));
+r = a(:,:,1);
+g = a(:,:,2);
+b = a(:,:,3);
+z = zeros(size(a, 1), size(a, 2));
+newIm  = cat(3, r, g, z);
 
-if (empty1 == 1)
-    errordlg('Gambar Belum Dimasukan! Silahkan Klik Pilih Gambar...','Terjadi kesalahan');
-elseif (empty2 == 1)
-    errordlg('Gambar Belum Dicopy! Silahkan Klik Copy...','Terjadi kesalahan');
-else
-    r = a(:,:,1);
-    g = a(:,:,2);
-    b = a(:,:,3);
-    z = zeros(size(a, 1), size(a, 2));
-    newIm  = cat(3, r, g, z);
-
-    axes(handles.pb3);
-    imshow(newIm);
-end
+axes(handles.pb3);
+imshow(newIm);

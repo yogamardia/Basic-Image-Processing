@@ -37,34 +37,38 @@ Partial Class Form1
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Label3 = New System.Windows.Forms.Label()
         Me.reset_btn = New System.Windows.Forms.Button()
+        Me.Panel1 = New System.Windows.Forms.Panel()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.Panel1.SuspendLayout()
         Me.SuspendLayout()
         '
         'open_btn
         '
-        Me.open_btn.Location = New System.Drawing.Point(33, 279)
+        Me.open_btn.BackColor = System.Drawing.Color.Gainsboro
+        Me.open_btn.Location = New System.Drawing.Point(78, 299)
         Me.open_btn.Name = "open_btn"
         Me.open_btn.Size = New System.Drawing.Size(96, 23)
         Me.open_btn.TabIndex = 0
         Me.open_btn.Text = "Buka File"
-        Me.open_btn.UseVisualStyleBackColor = True
+        Me.open_btn.UseVisualStyleBackColor = False
         '
         'copy_btn
         '
-        Me.copy_btn.Location = New System.Drawing.Point(135, 279)
+        Me.copy_btn.BackColor = System.Drawing.Color.Gainsboro
+        Me.copy_btn.Location = New System.Drawing.Point(292, 299)
         Me.copy_btn.Name = "copy_btn"
         Me.copy_btn.Size = New System.Drawing.Size(94, 23)
         Me.copy_btn.TabIndex = 1
         Me.copy_btn.Text = "Copy Gambar"
-        Me.copy_btn.UseVisualStyleBackColor = True
+        Me.copy_btn.UseVisualStyleBackColor = False
         '
         'red_rb
         '
         Me.red_rb.AutoSize = True
         Me.red_rb.ForeColor = System.Drawing.Color.Black
-        Me.red_rb.Location = New System.Drawing.Point(455, 279)
+        Me.red_rb.Location = New System.Drawing.Point(38, 8)
         Me.red_rb.Name = "red_rb"
         Me.red_rb.Size = New System.Drawing.Size(45, 17)
         Me.red_rb.TabIndex = 2
@@ -76,7 +80,7 @@ Partial Class Form1
         '
         Me.green_rb.AutoSize = True
         Me.green_rb.ForeColor = System.Drawing.Color.Black
-        Me.green_rb.Location = New System.Drawing.Point(455, 302)
+        Me.green_rb.Location = New System.Drawing.Point(38, 31)
         Me.green_rb.Name = "green_rb"
         Me.green_rb.Size = New System.Drawing.Size(54, 17)
         Me.green_rb.TabIndex = 3
@@ -86,8 +90,9 @@ Partial Class Form1
         '
         'PictureBox1
         '
+        Me.PictureBox1.BackColor = System.Drawing.SystemColors.ButtonHighlight
         Me.PictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.PictureBox1.Location = New System.Drawing.Point(33, 61)
+        Me.PictureBox1.Location = New System.Drawing.Point(33, 85)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(196, 196)
         Me.PictureBox1.TabIndex = 4
@@ -95,8 +100,9 @@ Partial Class Form1
         '
         'PictureBox2
         '
+        Me.PictureBox2.BackColor = System.Drawing.SystemColors.ButtonHighlight
         Me.PictureBox2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.PictureBox2.Location = New System.Drawing.Point(246, 61)
+        Me.PictureBox2.Location = New System.Drawing.Point(246, 85)
         Me.PictureBox2.Name = "PictureBox2"
         Me.PictureBox2.Size = New System.Drawing.Size(196, 196)
         Me.PictureBox2.TabIndex = 5
@@ -104,8 +110,9 @@ Partial Class Form1
         '
         'PictureBox3
         '
+        Me.PictureBox3.BackColor = System.Drawing.SystemColors.ButtonHighlight
         Me.PictureBox3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.PictureBox3.Location = New System.Drawing.Point(457, 61)
+        Me.PictureBox3.Location = New System.Drawing.Point(457, 85)
         Me.PictureBox3.Name = "PictureBox3"
         Me.PictureBox3.Size = New System.Drawing.Size(196, 196)
         Me.PictureBox3.TabIndex = 6
@@ -115,7 +122,7 @@ Partial Class Form1
         '
         Me.blue_rb.AutoSize = True
         Me.blue_rb.ForeColor = System.Drawing.Color.Black
-        Me.blue_rb.Location = New System.Drawing.Point(455, 326)
+        Me.blue_rb.Location = New System.Drawing.Point(38, 54)
         Me.blue_rb.Name = "blue_rb"
         Me.blue_rb.Size = New System.Drawing.Size(46, 17)
         Me.blue_rb.TabIndex = 7
@@ -127,7 +134,7 @@ Partial Class Form1
         '
         Me.yellow_rb.AutoSize = True
         Me.yellow_rb.ForeColor = System.Drawing.Color.Black
-        Me.yellow_rb.Location = New System.Drawing.Point(524, 326)
+        Me.yellow_rb.Location = New System.Drawing.Point(107, 54)
         Me.yellow_rb.Name = "yellow_rb"
         Me.yellow_rb.Size = New System.Drawing.Size(56, 17)
         Me.yellow_rb.TabIndex = 10
@@ -139,7 +146,7 @@ Partial Class Form1
         '
         Me.magenta_rb.AutoSize = True
         Me.magenta_rb.ForeColor = System.Drawing.Color.Black
-        Me.magenta_rb.Location = New System.Drawing.Point(524, 302)
+        Me.magenta_rb.Location = New System.Drawing.Point(107, 31)
         Me.magenta_rb.Name = "magenta_rb"
         Me.magenta_rb.Size = New System.Drawing.Size(67, 17)
         Me.magenta_rb.TabIndex = 9
@@ -151,7 +158,7 @@ Partial Class Form1
         '
         Me.cyan_rb.AutoSize = True
         Me.cyan_rb.ForeColor = System.Drawing.Color.Black
-        Me.cyan_rb.Location = New System.Drawing.Point(524, 279)
+        Me.cyan_rb.Location = New System.Drawing.Point(107, 8)
         Me.cyan_rb.Name = "cyan_rb"
         Me.cyan_rb.Size = New System.Drawing.Size(49, 17)
         Me.cyan_rb.TabIndex = 8
@@ -163,7 +170,7 @@ Partial Class Form1
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(74, 26)
+        Me.Label1.Location = New System.Drawing.Point(74, 49)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(107, 20)
         Me.Label1.TabIndex = 11
@@ -173,42 +180,53 @@ Partial Class Form1
         '
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(259, 26)
+        Me.Label2.Location = New System.Drawing.Point(303, 48)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(168, 20)
+        Me.Label2.Size = New System.Drawing.Size(94, 20)
         Me.Label2.TabIndex = 12
-        Me.Label2.Text = "Hasil Copy Per Pixel"
+        Me.Label2.Text = "Hasil Copy"
         '
         'Label3
         '
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(453, 26)
+        Me.Label3.Location = New System.Drawing.Point(538, 48)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(198, 20)
+        Me.Label3.Size = New System.Drawing.Size(49, 20)
         Me.Label3.TabIndex = 13
-        Me.Label3.Text = "Hasil Perubahan Warna"
+        Me.Label3.Text = "Hasil"
         '
         'reset_btn
         '
-        Me.reset_btn.Location = New System.Drawing.Point(33, 308)
+        Me.reset_btn.BackColor = System.Drawing.Color.LightGray
+        Me.reset_btn.Location = New System.Drawing.Point(611, 12)
         Me.reset_btn.Name = "reset_btn"
-        Me.reset_btn.Size = New System.Drawing.Size(96, 23)
+        Me.reset_btn.Size = New System.Drawing.Size(69, 24)
         Me.reset_btn.TabIndex = 14
         Me.reset_btn.Text = "Exit"
-        Me.reset_btn.UseVisualStyleBackColor = True
+        Me.reset_btn.UseVisualStyleBackColor = False
+        '
+        'Panel1
+        '
+        Me.Panel1.BackColor = System.Drawing.Color.WhiteSmoke
+        Me.Panel1.Controls.Add(Me.magenta_rb)
+        Me.Panel1.Controls.Add(Me.blue_rb)
+        Me.Panel1.Controls.Add(Me.yellow_rb)
+        Me.Panel1.Controls.Add(Me.cyan_rb)
+        Me.Panel1.Controls.Add(Me.green_rb)
+        Me.Panel1.Controls.Add(Me.red_rb)
+        Me.Panel1.Location = New System.Drawing.Point(457, 301)
+        Me.Panel1.Name = "Panel1"
+        Me.Panel1.Size = New System.Drawing.Size(198, 84)
+        Me.Panel1.TabIndex = 15
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(685, 361)
-        Me.Controls.Add(Me.yellow_rb)
-        Me.Controls.Add(Me.magenta_rb)
-        Me.Controls.Add(Me.cyan_rb)
-        Me.Controls.Add(Me.blue_rb)
-        Me.Controls.Add(Me.green_rb)
-        Me.Controls.Add(Me.red_rb)
+        Me.BackColor = System.Drawing.Color.GhostWhite
+        Me.ClientSize = New System.Drawing.Size(693, 397)
+        Me.Controls.Add(Me.Panel1)
         Me.Controls.Add(Me.reset_btn)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
@@ -224,6 +242,8 @@ Partial Class Form1
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.Panel1.ResumeLayout(False)
+        Me.Panel1.PerformLayout()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -243,5 +263,6 @@ Partial Class Form1
     Friend WithEvents Label2 As System.Windows.Forms.Label
     Friend WithEvents Label3 As System.Windows.Forms.Label
     Friend WithEvents reset_btn As System.Windows.Forms.Button
+    Friend WithEvents Panel1 As System.Windows.Forms.Panel
 
 End Class

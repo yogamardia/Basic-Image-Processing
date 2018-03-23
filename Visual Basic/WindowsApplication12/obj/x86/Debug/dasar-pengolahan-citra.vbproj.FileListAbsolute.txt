@@ -26,3 +26,31 @@ D:\Git Projects\Praktikum-PCD\WindowsApplication12\obj\x86\Debug\Dasar Pengolaha
 D:\Git Projects\Praktikum-PCD\WindowsApplication12\obj\x86\Debug\Dasar Pengolahan Citra.exe
 D:\Git Projects\Praktikum-PCD\WindowsApplication12\obj\x86\Debug\Dasar Pengolahan Citra.xml
 D:\Git Projects\Praktikum-PCD\WindowsApplication12\obj\x86\Debug\Dasar Pengolahan Citra.pdb
+C:\Users\Novar Setiawan\Desktop\Basic-Image-Processing-master\Visual Basic\WindowsApplication12\obj\x86\Debug\Dasar Pengolahan Citra.exe
+C:\Users\Novar Setiawan\Desktop\Basic-Image-Processing-master\Visual Basic\WindowsApplication12\obj\x86\Debug\Dasar Pengolahan Citra.xml
+C:\Users\Novar Setiawan\Desktop\Basic-Image-Processing-master\Visual Basic\WindowsApplication12\obj\x86\Debug\Dasar Pengolahan Citra.pdb
+C:\Users\Novar Setiawan\Desktop\Basic-Image-Processing-master\Visual Basic\WindowsApplication12\bin\Debug\Dasar Pengolahan Citra.exe.manifest
+C:\Users\Novar Setiawan\Desktop\Basic-Image-Processing-master\Visual Basic\WindowsApplication12\bin\Debug\Dasar Pengolahan Citra.application
+C:\Users\Novar Setiawan\Desktop\Basic-Image-Processing-master\Visual Basic\WindowsApplication12\bin\Debug\Dasar Pengolahan Citra.exe
+C:\Users\Novar Setiawan\Desktop\Basic-Image-Processing-master\Visual Basic\WindowsApplication12\bin\Debug\Dasar Pengolahan Citra.pdb
+C:\Users\Novar Setiawan\Desktop\Basic-Image-Processing-master\Visual Basic\WindowsApplication12\bin\Debug\Dasar Pengolahan Citra.xml
+C:\Users\Novar Setiawan\Desktop\Basic-Image-Processing-master\Visual Basic\WindowsApplication12\obj\x86\Debug\dasar-pengolahan-citra.vbprojResolveAssemblyReference.cache
+C:\Users\Novar Setiawan\Desktop\Basic-Image-Processing-master\Visual Basic\WindowsApplication12\obj\x86\Debug\DasarPengolahanCitra.Form1.resources
+C:\Users\Novar Setiawan\Desktop\Basic-Image-Processing-master\Visual Basic\WindowsApplication12\obj\x86\Debug\DasarPengolahanCitra.Resources.resources
+C:\Users\Novar Setiawan\Desktop\Basic-Image-Processing-master\Visual Basic\WindowsApplication12\obj\x86\Debug\dasar-pengolahan-citra.vbproj.GenerateResource.Cache
+C:\Users\Novar Setiawan\Desktop\Basic-Image-Processing-master\Visual Basic\WindowsApplication12\obj\x86\Debug\Dasar Pengolahan Citra.exe.manifest
+C:\Users\Novar Setiawan\Desktop\Basic-Image-Processing-master\Visual Basic\WindowsApplication12\obj\x86\Debug\Dasar Pengolahan Citra.application
+D:\Git Projects\Basic-Image-Processing\Visual Basic\WindowsApplication12\obj\x86\Debug\Dasar Pengolahan Citra.exe
+D:\Git Projects\Basic-Image-Processing\Visual Basic\WindowsApplication12\obj\x86\Debug\Dasar Pengolahan Citra.xml
+D:\Git Projects\Basic-Image-Processing\Visual Basic\WindowsApplication12\obj\x86\Debug\Dasar Pengolahan Citra.pdb
+D:\Git Projects\Basic-Image-Processing\Visual Basic\WindowsApplication12\bin\Debug\Dasar Pengolahan Citra.exe.manifest
+D:\Git Projects\Basic-Image-Processing\Visual Basic\WindowsApplication12\bin\Debug\Dasar Pengolahan Citra.application
+D:\Git Projects\Basic-Image-Processing\Visual Basic\WindowsApplication12\bin\Debug\Dasar Pengolahan Citra.exe
+D:\Git Projects\Basic-Image-Processing\Visual Basic\WindowsApplication12\bin\Debug\Dasar Pengolahan Citra.pdb
+D:\Git Projects\Basic-Image-Processing\Visual Basic\WindowsApplication12\bin\Debug\Dasar Pengolahan Citra.xml
+D:\Git Projects\Basic-Image-Processing\Visual Basic\WindowsApplication12\obj\x86\Debug\dasar-pengolahan-citra.vbprojResolveAssemblyReference.cache
+D:\Git Projects\Basic-Image-Processing\Visual Basic\WindowsApplication12\obj\x86\Debug\DasarPengolahanCitra.Form1.resources
+D:\Git Projects\Basic-Image-Processing\Visual Basic\WindowsApplication12\obj\x86\Debug\DasarPengolahanCitra.Resources.resources
+D:\Git Projects\Basic-Image-Processing\Visual Basic\WindowsApplication12\obj\x86\Debug\dasar-pengolahan-citra.vbproj.GenerateResource.Cache
+D:\Git Projects\Basic-Image-Processing\Visual Basic\WindowsApplication12\obj\x86\Debug\Dasar Pengolahan Citra.exe.manifest
+D:\Git Projects\Basic-Image-Processing\Visual Basic\WindowsApplication12\obj\x86\Debug\Dasar Pengolahan Citra.application
